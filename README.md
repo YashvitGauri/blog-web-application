@@ -1,2 +1,2 @@
-# bolg-web-application
+# blog-web-application
 a blog web application using node
